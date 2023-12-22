@@ -21,7 +21,7 @@ const Skills = () => {
             <span>MSSQL, MySQL, MongoDB</span>
           </li>
 
-          <li className="item  my-3 pb-3">
+          <li className="item  my-3">
             <h3>Tools and Frameworks</h3>
             <span>.NET/.NET Core, MVC, Entity Framework, Angular, React, Node.js, Express.js, GraphQL, </span>
             <p> Mendix, Bootstrap, JQuery, Postman, Git | TFS</p>

@@ -14,7 +14,10 @@
 .ant-card{
   margin-top:20px;
   margin-bottom:20px;
+  box-shadow: 0px 0px 20px 0 rgba(43, 156, 156, 0.625), 0 1px 6px -1px rgba(0, 0, 0, 0.02), 0 2px 4px 0 rgba(0, 0, 0, 0.02) !important;
 }
+
+
 
 @media screen and (max-width: 767px) {
   .ant-card{
