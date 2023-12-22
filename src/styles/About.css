@@ -17,14 +17,14 @@
 }
 
 .about-me-img img {
-  width: 90%;
+  width: 86%;
   margin-right:15px;
   border-radius: 2em;
 }
 
 .about-me-details {
   color: white;
-  padding:50px;
+  padding:40px;
   display: flex;
   flex-direction: column;
   justify-content: start;
