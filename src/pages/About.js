@@ -1,40 +1,28 @@
 import React from "react";
-import KhushaliShahImg from "../assets/Khushali-Shah.jpg";
+import EdaImg from "../assets/eda.jpg";
 import "../styles/About.css";
 
 const About = () => {
   return (
     <div className="about-me">
       <div className="about-me-img">
-        <img src={KhushaliShahImg} alt="Khushali Shah" />
+        <img src={EdaImg} alt="Eda Ekeyilmaz" />
       </div>
       <div className="about-me-details">
         <p>
-          Greetings! I embarked on my journey in the world of technology during my undergraduate
-          studies in Computer Science & Engineering, which culminated in 2021. Through hands-on
-          experience in languages such as HTML5, CSS, JavaScript, Bootstrap, and Python, I honed my
-          skills and crafted websites for diverse course projects.
+          Hello, I'm Eda, originating from the lively city of Istanbul, Turkey. My journey led me from the bustling streets of Istanbul to the exciting landscapes of Canada, bringing a rich and diverse background to my career in software development.
         </p>
         <p>
-          Following graduation, I stepped into the role of a Junior Node.js Developer at
-          Technostacks Infotech Pvt. Ltd. Here, I played an active role in the development team,
-          contributing to ongoing projects. My responsibilities included designing and implementing
-          RESTful APIs, facilitating seamless communication between client-side and server-side
-          applications. I also had the opportunity to delve into front-end development, engage in
-          team-building activities, and gain a taste of cloud technologies, particularly AWS.
+          I hold a bachelor's degree in Mathematical Engineering from Yildiz Technical University. I also completed Web Development at Conestoga College with high distinction! And for over five years, I've been deeply immersed in the dynamic realm of software development. While my primary focus lies in projects utilizing C# and .NET, my toolkit extends to encompass a variety of languages, including React, NodeJs, PHP, Mendix, and more.
         </p>
         <p>
-          In pursuit of expanding my horizons, I decided to pursue a Post Graduation Diploma in Web
-          Development at Conestoga College in Canada, commencing in the fall of 2022. This program
-          refined my proficiency in web development, equipping me with advanced skills in
-          JavaScript, Node.js, React.js, PHP, MongoDB, MySQL, and UI/UX design. Alongside my
-          studies, I immersed myself in course projects that further fortified my existing
-          capabilities and introduced me to new technologies.
+          Throughout my professional journey, I've played a pivotal role in numerous projects, showcasing my versatility as both a backend and frontend developer. Whether it's crafting intricate unit tests, preparing detailed technical documentation, or engaging with clients as a business analyst, I've consistently demonstrated adaptability and a multifaceted skill set.
         </p>
         <p>
-          Beyond my professional endeavors, I love to dance, enjoy watching movies, and I'm
-          passionate about exploring new places. One of my favorite experiences is witnessing the
-          breathtaking Northern Lights, a true marvel of nature.
+          Outside the realm of code, I find joy in singing, indulge in series-watching, and harbor a deep passion for exploring the world. Beyond my technical endeavors, these personal interests contribute to a well-rounded perspective that fuels my creativity and problem-solving skills.
+        </p>
+        <p>
+          In essence, I'm not just a software developer; I'm a storyteller, a problem solver, and an avid explorer, weaving together experiences from Istanbul to Canada into the fabric of my professional journey.
         </p>
       </div>
     </div>

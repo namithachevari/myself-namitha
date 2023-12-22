@@ -1,3 +1,21 @@
 .vertical-timeline-element-date {
-  color: white !important;
+  color: #21325e !important;
+  font-weight: bold !important;
+  opacity: .9  !important;
+  width: 33%;
+}
+
+.vertical-timeline-element-icon {
+  box-shadow: 0 0 0 4px #edffff, inset 0 2px 0 rgba(0,0,0,.08), 0 3px 0 4px rgba(0,0,0,.05);
+}
+
+
+@media screen and (max-width: 767px) {
+  .vertical-timeline-element-date {
+    width: 100%;
+  }
+  .vertical-timeline-element-content {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
 }

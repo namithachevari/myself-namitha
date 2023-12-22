@@ -2,3 +2,16 @@
   display: flex;
   justify-content: center;
 }
+
+.ant-card-head-title{
+  font-size:36px;
+  padding:20px;
+  color:#21325e;
+}
+.item > h3 {
+  color:#21325e;
+}
+.ant-card{
+  margin-top:20px;
+  margin-bottom:20px;
+}

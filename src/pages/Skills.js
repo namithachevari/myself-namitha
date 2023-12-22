@@ -7,20 +7,24 @@ const Skills = () => {
     <div className="skills">
       <Card title="My Technical Skills" bordered={false} style={{ width: "60%" }}>
         <div className="list">
-          <li className="item">
-            <h2> Front-End</h2>
-            <span>ReactJS, HTML5, CSS3, BootStrap, MaterialUI, Tailwind CSS, Ant Design</span>
+       
+          <li className="item my-3 pb-3 border-bottom">
+            <h3>Back-End</h3>
+            <span>C#, NodeJS, ExpressJS, PHP</span>
           </li>
-          <li className="item">
-            <h2>Back-End</h2>
-            <span>
-              NodeJS, NestJS, ExpressJS, GraphQL, MySQL, MongoDB, Java, .NET Core, PHP, Python,
-              Basic Knowledge of AWS
-            </span>
+          <li className="item  my-3 pb-3 border-bottom">
+            <h3> Front-End</h3>
+            <span>ReactJS, JavaScript, HTML5, CSS3, BootStrap, JQuery</span>
           </li>
-          <li className="item">
-            <h2>Languages</h2>
-            <span>JavaScript, Java, Python, C#, C, C++, TypeScript</span>
+          <li className="item  my-3 pb-3 border-bottom">
+            <h3>Databases</h3>
+            <span>MSSQL, MySQL, MongoDB</span>
+          </li>
+
+          <li className="item  my-3 pb-3">
+            <h3>Tools and Frameworks</h3>
+            <span>.NET/.NET Core, MVC, Entity Framework, Angular, React, Node.js, Express.js, GraphQL, </span>
+            <p> Mendix, Bootstrap, JQuery, Postman, Git | TFS</p>
           </li>
         </div>
       </Card>
