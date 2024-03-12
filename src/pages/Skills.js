@@ -20,7 +20,11 @@ const Skills = () => {
             <h3>Databases</h3>
             <span>MSSQL, MySQL, MongoDB</span>
           </li>
-
+          <li className="item  my-3  pb-3 border-bottom">
+            <h3>Content Management Systems</h3>
+            <span></span>
+            <p>Drupal , WordPress</p>
+          </li>
           <li className="item  my-3">
             <h3>Tools and Frameworks</h3>
             <span>.NET/.NET Core, MVC, Entity Framework, Angular, React, Node.js, Express.js, GraphQL, </span>

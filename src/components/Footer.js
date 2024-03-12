@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <p>© 2023 Eda Ekeyilmaz. All Rights Reserved.</p>
+        <p>© 2024 Namitha Chevari. All Rights Reserved.</p>
         <div className="social-icons"></div>
       </div>
     </footer>

@@ -1,5 +1,5 @@
 import React from "react";
-import EdaImg from "../assets/eda.jpg";
+import EdaImg from "../assets/namitha.jpg";
 import "../styles/About.css";
 
 const About = () => {
@@ -10,16 +10,16 @@ const About = () => {
       </div>
       <div className="about-me-details">
         <p>
-          Hello, I'm Eda, originating from the lively city of Istanbul, Turkey. My journey led me from the bustling streets of Istanbul to the exciting landscapes of Canada, bringing a rich and diverse background to my career in software development.
+        Hello, I am Namitha Chevari. As a seasoned software developer with six years of hands-on experience, I bring expertise in crafting and supporting complex web technologies, specializing in Drupal and WordPress CMS platforms. Originating from the vibrant tech hub of Bengaluru, India, I've honed my skills through diverse projects and challenges, navigating the ever-evolving landscape of web development.
         </p>
         <p>
-          I hold a bachelor's degree in Mathematical Engineering from Yildiz Technical University. I also completed Web Development at Conestoga College with high distinction! And for over five years, I've been deeply immersed in the dynamic realm of software development. While my primary focus lies in projects utilizing C# and .NET, my toolkit extends to encompass a variety of languages, including React, NodeJs, PHP, Mendix, and more.
+        My journey led me to the picturesque city of Waterloo, Ontario, where I pursued a Post Graduate Diploma in Web Development, graduating with distinction from Conestoga College. Throughout my academic journey, I've excelled in harnessing a plethora of technologies and methodologies, setting a solid foundation for my professional endeavors.
         </p>
         <p>
-          Throughout my professional journey, I've played a pivotal role in numerous projects, showcasing my versatility as both a backend and frontend developer. Whether it's crafting intricate unit tests, preparing detailed technical documentation, or engaging with clients as a business analyst, I've consistently demonstrated adaptability and a multifaceted skill set.
+        Throughout my professional journey, I've played a pivotal role in numerous projects, showcasing my versatility as both a backend and frontend developer. Whether it's crafting intricate unit tests, preparing detailed technical documentation, or engaging with clients as a business analyst, I've consistently demonstrated adaptability and a multifaceted skill set.
         </p>
         <p>
-          Outside the realm of code, I find joy in singing, indulge in series-watching, and harbor a deep passion for exploring the world. Beyond my technical endeavors, these personal interests contribute to a well-rounded perspective that fuels my creativity and problem-solving skills.
+          Outside the realm of code, I find joy in singing, photography, hiking and exploring neighborhood. Beyond my technical endeavors, these personal interests contribute to a well-rounded perspective that fuels my creativity and problem-solving skills.
         </p>
         <p>
           In essence, I'm not just a software developer; I'm a storyteller, a problem solver, and an avid explorer, weaving together experiences from Istanbul to Canada into the fabric of my professional journey.
