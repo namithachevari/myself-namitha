@@ -16,7 +16,7 @@ const About = () => {
         My journey led me to the picturesque city of Waterloo, Ontario, where I pursued a Post Graduate Diploma in Web Development, graduating with distinction from Conestoga College. Throughout my academic journey, I've excelled in harnessing a plethora of technologies and methodologies, setting a solid foundation for my professional endeavors.
         </p>
         <p>
-        Throughout my professional journey, I've played a pivotal role in numerous projects, showcasing my versatility as both a backend and frontend developer. Whether it's crafting intricate unit tests, preparing detailed technical documentation, or engaging with clients as a business analyst, I've consistently demonstrated adaptability and a multifaceted skill set.
+        Throughout my professional journey, I've played a pivotal role in numerous projects, showcasing my versatility as Web Developer and SEO Specialist. Whether it's crafting intricate unit tests, preparing detailed technical documentation, or engaging with clients as a business analyst, I've consistently demonstrated adaptability and a multifaceted skill set.
         </p>
         <p>
           Outside the realm of code, I find joy in singing, photography, hiking and exploring neighborhood. Beyond my technical endeavors, these personal interests contribute to a well-rounded perspective that fuels my creativity and problem-solving skills.

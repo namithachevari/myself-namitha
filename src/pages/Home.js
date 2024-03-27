@@ -10,7 +10,7 @@ const Home = () => {
         <h2 className="mb-5"> Hi, My Name is Namitha Chevari.</h2>
         <div className="prompt">
           <p className="mb-5">
-            Welcome to my personal website! I am a passionate full-stack software engineer with the ability to build robust, efficient and user-friendly applications.
+            Welcome to my personal website! I am a passionate Web developer with the ability to build robust, SEO and user-friendly applications.
           </p>
           <Link to="/about">
             <button className="btn btn-lg p-3 about-btn mt-3">Learn more</button>
