@@ -5,6 +5,7 @@ import About from "./pages/About";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Experience from "./pages/Experience";
+import ECommerce from "./pages/Ecommerce"
 import Skills from "./pages/Skills";
 import Footer from "./components/Footer";
 
@@ -18,7 +19,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/experience" element={<Experience />} />
           <Route path="/skills" element={<Skills />} />
-          <Route path="/ecommerce" element={<ECommerceProject />} />
+          <Route path="/ecommerce" element={<ECommerce />} />
         </Routes>
         <Footer />
       </Router>

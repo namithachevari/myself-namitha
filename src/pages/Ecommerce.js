@@ -1,32 +1,41 @@
 import React from "react";
-import "../styles/ECommerceProject.css"; // Import CSS file for styling
+import "../styles/ECommerce.css"; // Import CSS file for styling
 import "../styles/About.css";
-import WebsiteImg from "../assets/Home.png";
+import HomeImg from "../assets/Home.png";
+import shopImg from "../assets/Shop.jpg";
+import SampleVideo from "../assets/video-recording.mp4"; // Import your video file
 
-const ECommerceProject = () => {
+
+
+const ECommerce = () => {
   return (
     <div className="ecommerce-project">
-      <h2>E-Commerce Project</h2>
+      <h2>E-Commerce Project - Stylespree</h2>
       <div className="project-images">
         <div className="image-container">
-          <img src={WebsiteImg} alt="Screenshot of e-commerce website" />
-          <p>Description of the first image...</p>
+          <img src={HomeImg} alt="Screenshot of e-commerce website" />
+        </div>
+        <div className="image-container">
+          <img src={shopImg} alt="Screenshot of e-commerce website" />
         </div>
         </div>
+        <div className="project-video">
+            <video controls style={{ width: "700px", height: "500px" }}>
+            <source src={SampleVideo} type="video/mp4" />
+            Play the video
+            </video>
+      </div>
       <div className="project-description">
-        <p>
-          This is a brief description of the e-commerce project. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce pretium risus sit amet justo ultricies, nec posuere nisi sodales. Duis vel erat ac ipsum commodo ullamcorper.
-        </p>
-        <h1>Other Plugins Used</h1>
-            <ul>
-            <li>WooCommerce</li>
-            <li>WPIDE - File Manager, Code Editor</li>
-            <li>UpdraftPlus - Backup/Restore (For site backup)</li>
-            <li>LiteSpeed Cache (To clear cache)</li>
-            <li>Contact Form 7 (To create a contact form on the Contact Us page)</li>
-            <li>Elementor (Text Editor /Builder)</li>
-            </ul>
+        <p>In the video, I explain about the StyleSpree project, the google analytics, Page speed, the site architecture etc</p>
+        <h1>Plugins Used</h1>
+        <p>WooCommerce</p>
+        <p>WPIDE - File Manager, Code Editor</p>
+        <p>UpdraftPlus - Backup/Restore (For site backup)</p>
+        <p>LiteSpeed Cache (To clear cache)</p>
+        <p>Contact Form 7 (To create a contact form on the Contact Us page)</p>
+        <p>Elementor (Text Editor /Builder)</p>
       </div>
     </div>
   );
 };
+export default ECommerce;

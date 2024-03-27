@@ -13,7 +13,7 @@ const Home = () => {
             Welcome to my personal website! I am a passionate Web developer with the ability to build robust, SEO and user-friendly applications.
           </p>
           <Link to="/about">
-            <button className="btn btn-lg p-3 about-btn mt-3">Learn more</button>
+            <button className="btn btn-lg p-3 about-btn mt-3">Learn more about me</button>
           </Link>
         </div>
       </div>
