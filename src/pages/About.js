@@ -22,7 +22,7 @@ const About = () => {
           Outside the realm of code, I find joy in singing, photography, hiking and exploring neighborhood. Beyond my technical endeavors, these personal interests contribute to a well-rounded perspective that fuels my creativity and problem-solving skills.
         </p>
         <p>
-          In essence, I'm not just a software developer; I'm a storyteller, a problem solver, and an avid explorer, weaving together experiences from Istanbul to Canada into the fabric of my professional journey.
+          In essence, I'm not just a software developer; I'm a storyteller, a problem solver, and an avid explorer, weaving together experiences from India to Canada into the fabric of my professional journey.
         </p>
       </div>
     </div>
