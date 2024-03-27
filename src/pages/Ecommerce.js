@@ -1,5 +1,7 @@
 import React from "react";
 import "../styles/ECommerceProject.css"; // Import CSS file for styling
+import "../styles/About.css";
+import WebsiteImg from "../assets/Home.png";
 
 const ECommerceProject = () => {
   return (
@@ -7,7 +9,7 @@ const ECommerceProject = () => {
       <h2>E-Commerce Project</h2>
       <div className="project-images">
         <div className="image-container">
-          <img src="Home.png" alt="Screenshot of e-commerce website" />
+          <img src={WebsiteImg} alt="Screenshot of e-commerce website" />
           <p>Description of the first image...</p>
         </div>
         </div>
