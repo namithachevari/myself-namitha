@@ -20,13 +20,13 @@ const ECommerce = () => {
         </div>
         </div>
         <div className="project-video">
-            <video controls style={{ width: "700px", height: "500px" }}>
+        <video controls className="video-container">
             <source src={SampleVideo} type="video/mp4" />
             Play the video
             </video>
       </div>
       <div className="project-description">
-        <p>In the video, I explain about the StyleSpree project, the google analytics, Page speed, the site architecture etc</p>
+        <p>In this video, I explain about the StyleSpree project, the google analytics, Page speed, the site architecture etc</p>
         <h1>Plugins Used</h1>
         <p>WooCommerce</p>
         <p>WPIDE - File Manager, Code Editor</p>
