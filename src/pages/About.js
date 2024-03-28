@@ -1,12 +1,12 @@
 import React from "react";
-import EdaImg from "../assets/namitha.jpg";
+import NamithaImg from "../assets/namitha.jpg";
 import "../styles/About.css";
 
 const About = () => {
   return (
     <div className="about-me">
       <div className="about-me-img">
-        <img src={EdaImg} alt="Namitha Chevari smiling while holding a Bachelor of Science degree at her graduation ceremony from Conestoga College." />
+        <img src={NamithaImg} alt="Namitha Chevari smiling while holding a Bachelor of Science degree at her graduation ceremony from Conestoga College." />
       </div>
       <div className="about-me-details">
         <p>

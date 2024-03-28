@@ -3,7 +3,7 @@ import "../styles/ECommerce.css"; // Import CSS file for styling
 import "../styles/About.css";
 import HomeImg from "../assets/Home.png";
 import shopImg from "../assets/Shop.jpg";
-import SampleVideo from "../assets/video-recording.mp4"; // Import  video file
+import SampleVideo from "../assets/video-recording.mp4"; // Import video file
 import SampleVideoCaptions from "../assets/video-caption.vtt"; // Import captions file
 import SampleVideoTranscript from "../assets/video-transcript.txt"; // Import transcript file
 import WebsiteDetailsPDF from "../assets/Website-documentation.pdf"; // Import PDF file
@@ -22,10 +22,10 @@ const ECommerce = () => {
         </div>
         </div>
         <div className="project-video">
-        <video controls className="video-container">
-            <source src={SampleVideo} type="video/mp4" />
-            <track src={SampleVideoCaptions} kind="captions" srcLang="en" label="English captions" />
-            Play the video
+            <video controls className="video-container">
+                <source src={SampleVideo} type="video/mp4" />
+                <track src={SampleVideoCaptions} kind="captions" srcLang="en" label="English captions" />
+                Play the video
             </video>
             <p><a href={SampleVideoTranscript} target="_blank" rel="noopener noreferrer">View video transcript</a></p>
       </div>
