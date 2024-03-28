@@ -6,7 +6,7 @@ import shopImg from "../assets/Shop.jpg";
 import SampleVideo from "../assets/video-recording.mp4"; // Import  video file
 import SampleVideoCaptions from "../assets/video-caption.vtt"; // Import captions file
 import SampleVideoTranscript from "../assets/video-transcript.txt"; // Import transcript file
-import WebsiteDetailsPDF from "../assets/website-documentation.pdf"; // Import PDF file
+import WebsiteDetailsPDF from "../assets/Website-documentation.pdf"; // Import PDF file
 
 
 const ECommerce = () => {
