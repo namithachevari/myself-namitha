@@ -23,12 +23,12 @@ const Skills = () => {
           <li className="item  my-3  pb-3 border-bottom">
             <h3>Content Management Systems</h3>
             <span></span>
-            <p>Drupal , WordPress</p>
+            <p>Drupal , WordPress, Sitecore, iCreate</p>
           </li>
           <li className="item  my-3">
             <h3>Tools and Frameworks</h3>
             <span>.NET/.NET Core, MVC, Entity Framework, Angular, React, Node.js, Express.js, GraphQL, </span>
-            <p> Mendix, Bootstrap, JQuery, Postman, Git, AODA for web compliance, WCAG, SEO</p>
+            <p> Mendix, Bootstrap, JQuery, Postman, Git, AODA for web compliance, WCAG 2.0, SEO</p>
           </li>
         </div>
       </Card>

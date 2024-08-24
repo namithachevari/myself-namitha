@@ -25,7 +25,7 @@ function Experience() {
           <h3 className="vertical-timeline-element-title">Web Developer</h3>
           <h5 className="vertical-timeline-element-subtitle">Position2</h5>
           <p>
-            Skills: HTML,JavaScript, CSS, PHP, .NET/.NET Core, MVC, Drupal, WordPress, SEO, Pantheon, Aquia, Google Cloud , UI/UX (XD), SEO, Adobe Photoshop, Illustrator, GraphQL, Unit Tests, BugHerd, Postman, Jira, GitHub, MacOS, Windows, Pingdom, Google Search Console.
+            Skills: HTML,JavaScript, CSS, PHP, .NET/.NET Core, MVC, Drupal, WordPress, iCreate, Sitecore, SEO, Pantheon, Aquia, Google Cloud , UI/UX (XD), SEO, Adobe Photoshop, Illustrator, GraphQL, Unit Tests, BugHerd, Postman, Jira, GitHub, MacOS, Windows, Pingdom, Google Search Console.
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
